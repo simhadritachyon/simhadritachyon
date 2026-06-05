@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am an AI Infrastructure Engineer specializing in building enterprise-grade intelligent systems that bridge the gap between raw data and actionable insight. My work centers on designing and delivering production-ready RAG (Retrieval-Augmented Generation) architectures, knowledge graph platforms, and scalable event-driven backend systems. I engineer AI backends that power real-time incident intelligence, semantic search, and autonomous observability pipelines across cloud-native GCP environments. Every system I build is optimized for resilience, observability, and operational scale.
+An AI Infrastructure Engineer specializing in building enterprise-grade intelligent systems that bridge the gap between raw data and actionable insight. My work centers on designing and delivering production-ready RAG (Retrieval-Augmented Generation) architectures, knowledge graph platforms, and scalable event-driven backend systems. I engineer AI backends that power real-time incident intelligence, semantic search, and autonomous observability pipelines across cloud-native GCP environments. Every system I build is optimized for resilience, observability, and operational scale.
 
 ---
 
